@@ -1,0 +1,422 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-15 14:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#1: ../../../Authentification/login.php:23
+msgid "Connectez-vous pour vous authentifier"
+msgstr "Log in to be authenticated"
+
+#2
+msgid "Entrez votre mot de passe"
+msgstr "Enter your password"
+
+#3
+msgid "Nom d'utilisateur"
+msgstr "Username"
+
+#4
+msgid "Mot de passe"
+msgstr "Password"
+
+#5
+msgid "Le chat est mort"
+msgstr "The cat is dead"
+
+#6
+msgid "Authentification"
+msgstr "Authentication"
+
+#7
+msgid "Se connecter"
+msgstr "Connect"
+
+#8
+msgid "S'inscrire"
+msgstr "Sign up"
+
+#9
+msgid "Retour à l'accueil"
+msgstr "Back to homepage"
+
+msgid "Nom"
+msgstr "Name"
+
+msgid "Prénom"
+msgstr "First name"
+
+msgid"Un mail contenant le lien d'activation vient de vous être envoyé."
+msgstr"An email contening the activation link has just been sent to you."
+
+msgid "Utilisateur standard"
+msgstr "Standard user"
+
+msgid "Utilisateur premium"
+msgstr "Premium user"
+
+msgid "Utilisateur traducteur"
+msgstr "Translator user"
+
+msgid "Inscription validée"
+msgstr "Valid registration"
+
+msgid"Bravo...Inscription validée !!"
+msgstr"Congrats...Valid registration !!"
+
+msgid"Français"
+msgstr"French"
+
+msgid"Anglais"
+msgstr"English"
+
+msgid"Vous êtes connectés"
+msgstr"You are connected"
+
+msgid"Mot de passe oublié ?"
+msgstr"Forgot your password ?"
+
+msgid"Accueil"
+msgstr"Home"
+
+msgid"Connexion"
+msgstr"Connection"
+
+msgid"Inscription"
+msgstr"Register"
+
+msgid"Traduire"
+msgstr"Translate"
+
+msgid"Bonjour"
+msgstr"Hello"
+
+msgid"Déconnexion"
+msgstr"Sign out"
+
+msgid "ATTENTION : tous les champs doivent être saisis !!"
+msgstr "ALERT : all field must be filled !!"
+
+msgid "ATTENTION : erreur de mail ou de mot de passe ou inscription non activé !!"
+msgstr "ALERT : mail or password error or inactive register"
+
+msgid "Erreur"
+msgstr "Error"
+
+msgid "ATTENTION : l'adresse mail existe déjà !!"
+msgstr "ALERT : mail address already exists !!"
+
+msgid "ATTENTION : erreur de mail ou de mot de passe !!"
+msgstr "ALERT : mail or password error"
+
+msgid "Demande traduction"
+msgstr "Ask translation"
+
+msgid "À traduire"
+msgstr "To translate"
+
+msgid "Demande"
+msgstr "Ask"
+
+msgid "Votre demande"
+msgstr "Your application"
+
+msgid "à été envoyée !"
+msgstr "has been sent !"
+
+msgid "Vos demandes sont accessibles depuis [mon compte] / [mes demandes]"
+msgstr "Your applications are available from [My Account] / [My Applications]"
+
+msgid "Retour"
+msgstr "Back"
+
+msgid "Veuillez nous excuser, une erreur inconnue est survenue !"
+msgstr "Sorry, an unknown error has occured ! "
+
+msgid "Vous êtes connecté."
+msgstr "You are connected."
+
+msgid "Modifier"
+msgstr "Edit"
+
+#Les deux traductions sont inversées avec d'avoir un anglais correct
+
+msgid "Champs"
+msgstr "Current"
+
+msgid "Actuel"
+msgstr "Field"
+
+msgid "Identifiant"
+msgstr "Username"
+
+msgid "Civilité (sexe)"
+msgstr "Title (gender)"
+
+msgid "Téléphone"
+msgstr "Phone"
+
+msgid "Modifier les infos"
+msgstr "Edit informations"
+
+msgid "Mes demandes"
+msgstr "My application"
+
+msgid "Vos demandes"
+msgstr"Your applications"
+
+msgid "État"
+msgstr "Statement"
+
+msgid"La demande peut être : [En cours] = En attente d'un traducteur ou bien [Terminée] = Votre demande à été traitée"
+msgstr "This application might be : [In progress] = Waiting for a translator or [Finish] = you application has been processed"
+
+msgid "Outil de traduction"
+msgstr "Translator tool"
+
+msgid "Votre mot n'est pas encore traduit ? Demandez ici ! ->"
+msgstr "Your word is not translated yet? Request here! ->"
+
+msgid"Formulaire d'inscription"
+msgstr "Registration form"
+
+msgid "Bienvenue dans votre espace administrateur !"
+msgstr "Welcome to the administrator space !"
+
+msgid "Adresse mail de l'utilisateur"
+msgstr "User's mail adress"
+
+msgid "Rechercher l'utilisateur"
+msgstr "Search for user"
+
+msgid "L'utilisateur à le statut"
+msgstr "User's status"
+
+msgid "Choisissez le statut que vous voulez attribuer à l'utilisateur :"
+msgstr "Choose the status that you want to give to the user :"
+
+msgid "Changer le statut"
+msgstr "Change status"
+
+msgid "Bienvenue sur le site de traduction de l'équipe 2 du groupe 2"
+msgstr "Welcome to the online translator of team 2 group 2 !"
+
+msgid "Notre site propose une liste de traductions accessible à tous ainsi que des services plus élaborés pour des utilisateurs particuliers."
+msgstr "Our site propose an entire list of traduction, accessible for everyone and also some extra services for premium users"
+
+msgid "ATTENTION : mail non existant"
+msgstr "WARNING : mail address doesn't exist"
+
+msgid "ATTENTION : erreur de mail ou de mot de passe ou inscription non activée !!"
+msgstr "WARNING : mail or password error or inactive registration !!"
+
+msgid "L'utilisateur à le rang ="
+msgstr "The user's status is ="
+
+msgid "L'utilisateur est introuvable"
+msgstr "Unknown user"
+
+msgid "Rechercher"
+msgstr "Research"
+
+msgid "Le mot de passe a été changé"
+msgstr "Password has been changed"
+
+msgid "Modifier le mot de passe"
+msgstr"Edit password"
+
+msgid "Modifier le mail"
+msgstr "Edit mail address"
+
+msgid "L'adresse mail à été changée"
+msgstr"Mail address has been changed"
+
+msgid "Mot demandé"
+msgstr "Wanted word"
+
+msgid "Clé"
+msgstr "Key"
+
+msgid "Traduction FR"
+msgstr "FR Translation"
+
+msgid "Traduction EN"
+msgstr "EN Translation"
+
+msgid "Administration"
+msgstr "Management"
+
+msgid "Nouveau statut de l'utilisateur"
+msgstr"New user's status"
+
+msgid "Lors de votre inscription, vous serez alors utilisateur standard, ce qui vous donne un accès illimité à toutes les traductions!"
+msgstr "When you registrer, you'll be a standard user, what gives you an unlimited access to all translations!"
+
+msgid "Pour récompenser votre fidélité à notre site, les administrateurs peuvent alors vous passer en utilisateur premium, ce qui vous offre, en plus des avantages de l'utilisateur standard, une recherche améliorée des traductions, ainsi que la possibilité de faire une demande de traduction si le mot souhaité n'a jamais été traduit."
+msgstr "To reward your loyalty in our site, the administrators can then cross you in premium user, what offers you, besides the advantages of the standard user, an improved research for the translations, as well as the possibility of making a translation request if the desired word was never translated."
+
+msgid "Les traducteurs, quant à eux, possèdent en plus des autres utilisateurs une interface de traduction. Cette interface leur permet de gérer les demandes des utilisateurs premium, de modifier et de récupérer les fichiers de traduction."
+msgstr "The translators, them, possess besides the other users an  translation interface. This interface allows them to manage the requests of the premium users, to modify and to export the files of translation."
+
+msgid "Entrez à nouveau le mail de l'utilisateur pour confirmer :"
+msgstr "Enter again the mail of the user to confirm :"
+
+msgid "Outil de demande de traduction"
+msgstr "Tool of request of translation"
+
+msgid "Votre demande :"
+msgstr "You application :"
+
+msgid " a été envoyée !"
+msgstr " - has been sent !"
+
+msgid "Sélectionnez une langue depuis laquelle exporter un fichier de traduction"
+msgstr "Select a language from which you want to export a translation file"
+
+msgid "Exporter le fichier"
+msgstr "Export file"
+
+msgid "Mail envoyé"
+msgstr "Mail sent"
+
+msgid "Un mail vous a été envoyé."
+msgstr "A mail has been sent to you"
+
+msgid "Veuillez renseigner votre adresse mail"
+msgstr "Please, enter your mail address"
+
+msgid "Envoyer un mail"
+msgstr "Send a mail"
+
+msgid "__Inscrit ton nouveau mot de passe ici ->__"
+msgstr "__Enter your new password here ->__"
+
+msgid "Mes requêtes"
+msgstr "My resquests"
+
+msgid"Vous n'avez pas accès a vos demandes, vous devez être premium !"
+msgstr"Unauthorized access to your requests, you have to be premium !"
+
+msgid"standard"
+msgstr"standard"
+
+msgid"Un mail contenant le lien d'activation de votre compte vient de vous être envoyé."
+msgstr"A mail containing the link of activation of your account has been sent to you."
+
+msgid "Votre rang actuel : "
+msgstr "Current status : "
+
+msgid "Administrateur"
+msgstr "Administrator"
+
+msgid "Traducteur"
+msgstr "Translator"
+
+msgid"Vous n'êtes pas connecté"
+msgstr"You are not connected"
+
+msgid "Espace administrateur"
+msgstr "Administrator space"
+
+msgid "Langue"
+msgstr "Language"
+
+msgid "Inscrivez-vous dès maintenant pour avoir accès à ces précieuses traductions."
+msgstr"Register now to get access to those precious translations."
+
+msgid "Traducteur en ligne :"
+msgstr"Online translator :"
+
+msgid "Valider"
+msgstr"Validate"
+
+msgid"Exporter"
+msgstr"Export"
+
+msgid"Entrez la traduction que vous souhaitez modifier :"
+msgstr"Insert the translation that you want to edit : "
+
+msgid "Ancienne traduction"
+msgstr"Old translation"
+
+msgid"Nouvelle traduction"
+msgstr"New translation"
+
+msgid "Le rang de "
+msgstr "The status of "
+
+msgid" a été changé à "
+msgstr" has been changed as "
+
+msgid"La traduction de "
+msgstr"The translation of "
+
+msgid" a été changée en "
+msgstr" has been changed by "
+
+msgid"Numéro de traduction"
+msgstr"Translation number"
+
+msgid"La traduction est introuvable"
+msgstr"Unknow translation"
+
+msgid"Mon compte :"
+msgstr"My account :"
+
+msgid"Une recherche toutes les 10 s pour tester !!"
+msgstr"A research every 10 s to test !!"
+
+msgid"Saisir une expression"
+msgstr"Insert an expression"
+
+msgid "Non trouvé !"
+msgstr"Not found !"
+
+msgid"Espace traducteur"
+msgstr"Translator space"
+
+msgid"© Tous droits réservés 2018 WeTranslate"
+msgstr"© All rights reserved 2018 WeTranslate"
+
+msgid"Gérer les demandes de traduction"
+msgstr"Manage translation requests"
+
+msgid"Modifier une traduction existante"
+msgstr"Edit an existing translation"
+
+msgid"Ajouter une traduction existante dans une nouvelle langue"
+msgstr"Add an existing translation in a new language"
+
+msgid"Exporter une traduction"
+msgstr"Export a translation"
+
+msgid"Mon compte"
+msgstr"My account"
+
+msgid"Saisissez l'expression à traduire"
+msgstr"Insert the expression to translate"
+
+msgid"Traduction"
+msgstr"Translation"
+
+msgid"Choix de la langue"
+msgstr"Choice of language"
+
+msgid"Les images W3C et CC sont issues du site de Mickael Martin-Nevot, enseignant à l'IUT d'Aix-Marseille."
+msgstr"W3C and CC images come from Mickael Martin-Nevot's website, teacher at the IUT of Aix-Marseille."
+
+msgid"cliquez ici pour accéder au site de Mickael Martin-Nevot"
+msgstr"click here to access to the website of Mickael Martin-Nevot"

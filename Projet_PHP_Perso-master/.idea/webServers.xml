@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e636e57-8c87-4cb8-ad1c-2e504c952907" name="projet_php_iut" url="http://ssh-projet-php2018.alwaysdata.net">
+        <fileTransfer host="ssh-projet-php2018.alwaysdata.net" port="22" rootFolder="/home/projet-php2018/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
